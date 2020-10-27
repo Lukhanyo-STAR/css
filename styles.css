@@ -1,0 +1,126 @@
+body {
+    background-color: #e8ffff;
+    text-align: center;
+    font-family: "dancing", serif;
+}
+
+a:hover {
+    color: darkturquoise;
+}
+
+a {
+    color: darkolivegreen;
+    font-family: "Dancing", serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+h1 {
+    color: hsl(175, 47%, 44%);
+    font-family: "sacramento";
+    font-size: 114px;
+    margin-top: 0;
+}
+
+.text {
+    color: #94b4a4;
+    width: 40%;
+    margin: 40px auto 60;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: darkgreen;
+    border-width: 7px;
+    width: 5%;
+}
+
+.image1 {
+    border-radius: 100%;
+    float: none;
+}
+
+.image2 {
+    border-radius: 100%;
+    float: none;
+}
+
+.image3 {
+    border-radius: 100%;
+    float: none;
+    ;
+}
+
+.btn {
+    color: hsl(175, 47%, 44%);
+    ;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.btn {
+    background: #E8F63D;
+    background-image: -webkit-linear-gradient(top, #E8F63D, #34D01E);
+    background-image: -moz-linear-gradient(top, #E8F63D, #34D01E);
+    background-image: -ms-linear-gradient(top, #E8F63D, #34D01E);
+    background-image: -o-linear-gradient(top, #E8F63D, #34D01E);
+    background-image: -webkit-gradient(to bottom, #E8F63D, #34D01E);
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    border-radius: 19px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: 100;
+    padding: 8px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #44423E 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    border: solid #337FED 1px;
+    background: #D0CD1E;
+    background-image: -webkit-linear-gradient(top, #D0CD1E, #5DF63D);
+    background-image: -moz-linear-gradient(top, #D0CD1E, #5DF63D);
+    background-image: -ms-linear-gradient(top, #D0CD1E, #5DF63D);
+    background-image: -o-linear-gradient(top, #D0CD1E, #5DF63D);
+    background-image: -webkit-gradient(to bottom, #D0CD1E, #5DF63D);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+.bottom-container {
+    background-color: #dbe3e5;
+    padding: 50px 0 20px;
+}
+
+h2 {
+    color: hsl(175, 47%, 44%);
+    ;
+    font-family: "Dancing", serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: hsl(175, 47%, 44%);
+}
+
+p {
+    font-family: 'Nunito', sans-serif;
+    color: black;
+}
